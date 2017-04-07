@@ -5,7 +5,7 @@
   "main": "core/compass.scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TOP-Chao/compass.git"
+    "url": "git+https://github.com/Hack-DJ/compass.git"
   },
   "author": "",
   "license": "ISC",
