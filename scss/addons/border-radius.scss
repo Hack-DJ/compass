@@ -18,3 +18,9 @@
     border-bottom-left-radius: $radii;
     border-top-left-radius: $radii;
 }
+@mixin border-radius($radii) {
+     -moz-border-radius: $radii; /* Firefox */
+  -webkit-border-radius: $radii; /* Safari 和 Chrome */
+  border-radius: $radii; /* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+
+}
